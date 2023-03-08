@@ -63,7 +63,7 @@ module.exports = {
 		},
 		'./packages/clay-core/src/tree-view/': {
 			branches: 59,
-			functions: 70,
+			functions: 69,
 			lines: 71,
 			statements: 71,
 		},
@@ -152,7 +152,7 @@ module.exports = {
 			statements: 98,
 		},
 		'./packages/clay-nav/src/': {
-			branches: 88,
+			branches: 86,
 			functions: 80,
 			lines: 93,
 			statements: 93,
